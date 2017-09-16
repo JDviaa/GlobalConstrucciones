@@ -5948,7 +5948,7 @@ section.timeline .timeline-box .owl-carousel {
 }
 
 .testimonial .testimonial-author span {
-	color: #666;
+	color: #000000;
 	display: block;
 	font-size: 12px;
 }
@@ -5975,7 +5975,7 @@ section.timeline .timeline-box .owl-carousel {
 }
 
 .testimonial.testimonial-style-2 blockquote p {
-	color: #777;
+	color: #000000;
 }
 
 .testimonial.testimonial-style-2 .testimonial-arrow-down {
@@ -6181,7 +6181,7 @@ section.timeline .timeline-box .owl-carousel {
 
 /* With Quotes */
 .testimonial.testimonial-with-quotes blockquote:before {
-	color: #777;
+	color: #000000;
 	display: block !important;
 	left: 10px;
 	top: 0;
@@ -6193,7 +6193,7 @@ section.timeline .timeline-box .owl-carousel {
 }
 
 .testimonial.testimonial-with-quotes blockquote:after {
-	color: #777;
+	color: #000000;
 	display: block !important;
 	right: 10px;
 	font-size: 80px;
